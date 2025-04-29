@@ -1,0 +1,9 @@
+@software{Photonic_Subspace_QML_Toolkit,
+  author = {Léo Monbroussou, Beatrice Polacchi, Verena Yacoub, Eugenio Caruccio, Giovanni Rodari, Francesco Hoch, Gonzalo Carvacho, Nicolo Spagnolo, Taira Giordani, Niki Di Giano, Francesco Ceccarelli, Giacomo Corrielli, Roberto Osellame, Elham Kashefi, Fabio Sciarrino},
+  doi = {},
+  month = {04},
+  title = {{Photonic Subspace QML Toolkit}},
+  url = {https://github.com/ptitbroussou/Photonic_Subspace_QML_Toolkit},
+  version = {1.0.0},
+  year = {2025}
+}
